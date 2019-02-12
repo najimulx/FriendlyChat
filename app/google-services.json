@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "887926235956",
+    "firebase_url": "https://friendly-chat-b54c1.firebaseio.com",
+    "project_id": "friendly-chat-b54c1",
+    "storage_bucket": "friendly-chat-b54c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887926235956:android:235d8ebcac9f4d2c",
+        "android_client_info": {
+          "package_name": "com.example.dell.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887926235956-hqhsom6s48qrp4li5umh1rb19hor4er0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.friendlychat",
+            "certificate_hash": "0caaa5592968e313788488f4c7b8b26932855ae7"
+          }
+        },
+        {
+          "client_id": "887926235956-e4lbjkf6hf3nsi7vni86akrts5csukpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEn2bjMegQ-Bfjs4-lYu09oNj6JzEZjq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887926235956-e4lbjkf6hf3nsi7vni86akrts5csukpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
